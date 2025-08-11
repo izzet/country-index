@@ -89,7 +89,7 @@ export interface Country {
 ## Development
 
 - Scripts: `npm run typecheck`, `npm run lint`, `npm test`, `npm run build`
-- CI: GitHub Actions tests on Node 18 and 20
+- CI: GitHub Actions tests on Node 18, 20 and 22
 - Releases: publish on GitHub Release (set `NPM_TOKEN` secret), with npm provenance and version validation
 
 ## License
