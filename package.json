@@ -13,6 +13,17 @@
   "bugs": {
     "url": "https://github.com/izzet/country-index/issues"
   },
+  "keywords": [
+    "countries",
+    "country",
+    "iso2",
+    "phone",
+    "dial",
+    "dial-code",
+    "regions",
+    "metadata",
+    "typescript"
+  ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
